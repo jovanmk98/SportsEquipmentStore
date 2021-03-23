@@ -5,34 +5,44 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4823f860-a146-4fd5-9bfd-c3e4d9bd18de" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../frontend-react" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/web/web/SportEquipmentStoreApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/web/web/controller/ManufacturerController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/web/web/controller/ProductController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/web/web/controller/SportController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/web/web/model/Manufacturer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/web/web/model/Product.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/web/web/model/Sport.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/web/web/model/dto/ProductDto.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/web/web/repository/ManufacturerRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/web/web/repository/ProductRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/web/web/repository/SportRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/web/web/service/ManufacturerService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/web/web/service/ProductService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/web/web/service/SportService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/web/web/service/impl/ManufacturerServiceimpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/web/web/service/impl/ProductServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/web/web/service/impl/SportServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/resources/application-prod.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/test/java/web/web/SportEquipmentStoreApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend-react/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend-react/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend-react/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend-react/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend-react/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/frontend-react/src/components/App/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend-react/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend-react/src/components/App/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend-react/src/App.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend-react/src/App.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend-react/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend-react/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/frontend-react" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring/src/main/java/web/web/SportEquipmentStoreApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring/src/main/java/web/web/controller/ManufacturerController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring/src/main/java/web/web/controller/ProductController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring/src/main/java/web/web/controller/SportController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring/src/main/java/web/web/model/Manufacturer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring/src/main/java/web/web/model/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring/src/main/java/web/web/model/Sport.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring/src/main/java/web/web/model/dto/ProductDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring/src/main/java/web/web/repository/ManufacturerRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring/src/main/java/web/web/repository/ProductRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring/src/main/java/web/web/repository/SportRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring/src/main/java/web/web/service/ManufacturerService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring/src/main/java/web/web/service/ProductService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring/src/main/java/web/web/service/SportService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring/src/main/java/web/web/service/impl/ManufacturerServiceimpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring/src/main/java/web/web/service/impl/ProductServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring/src/main/java/web/web/service/impl/SportServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring/src/main/resources/application-prod.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring/src/test/java/web/web/SportEquipmentStoreApplicationTests.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +85,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
@@ -112,6 +122,7 @@
       <workItem from="1616533147816" duration="282000" />
       <workItem from="1616533790683" duration="465000" />
       <workItem from="1616534434438" duration="10000" />
+      <workItem from="1616539470507" duration="527000" />
     </task>
     <servers />
   </component>
