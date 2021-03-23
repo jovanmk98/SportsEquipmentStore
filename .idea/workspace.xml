@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a5982570-1783-41f7-aa3d-a72bb2c6f5a2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend-react" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/web/web/SportEquipmentStoreApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/web/web/controller/ManufacturerController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/web/web/controller/ProductController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/web/web/controller/SportController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/web/web/model/Manufacturer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/web/web/model/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/web/web/model/Sport.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/web/web/model/dto/ProductDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/web/web/repository/ManufacturerRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/web/web/repository/ProductRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/web/web/repository/SportRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/web/web/service/ManufacturerService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/web/web/service/ProductService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/web/web/service/SportService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/web/web/service/impl/ManufacturerServiceimpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/web/web/service/impl/ProductServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/web/web/service/impl/SportServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application-prod.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/web/web/SportEquipmentStoreApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1qAtlmnTHPIEr3XEmOcbxGHDC23" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/spring/pom.xml" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a5982570-1783-41f7-aa3d-a72bb2c6f5a2" name="Default Changelist" comment="" />
+      <created>1616534382648</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616534382648</updated>
+      <workItem from="1616534385655" duration="43000" />
+    </task>
+    <servers />
+  </component>
+</project>
