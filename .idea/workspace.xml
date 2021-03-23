@@ -4,66 +4,130 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5982570-1783-41f7-aa3d-a72bb2c6f5a2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend-react" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/web/web/SportEquipmentStoreApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/web/web/controller/ManufacturerController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/web/web/controller/ProductController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/web/web/controller/SportController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/web/web/model/Manufacturer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/web/web/model/Product.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/web/web/model/Sport.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/web/web/model/dto/ProductDto.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/web/web/repository/ManufacturerRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/web/web/repository/ProductRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/web/web/repository/SportRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/web/web/service/ManufacturerService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/web/web/service/ProductService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/web/web/service/SportService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/web/web/service/impl/ManufacturerServiceimpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/web/web/service/impl/ProductServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/web/web/service/impl/SportServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application-prod.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/web/web/SportEquipmentStoreApplicationTests.java" beforeDir="false" />
+    <list default="true" id="4823f860-a146-4fd5-9bfd-c3e4d9bd18de" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend-react" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/web/web/SportEquipmentStoreApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/web/web/controller/ManufacturerController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/web/web/controller/ProductController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/web/web/controller/SportController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/web/web/model/Manufacturer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/web/web/model/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/web/web/model/Sport.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/web/web/model/dto/ProductDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/web/web/repository/ManufacturerRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/web/web/repository/ProductRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/web/web/repository/SportRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/web/web/service/ManufacturerService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/web/web/service/ProductService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/web/web/service/SportService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/web/web/service/impl/ManufacturerServiceimpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/web/web/service/impl/ProductServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/web/web/service/impl/SportServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/resources/application-prod.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/web/web/SportEquipmentStoreApplicationTests.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
-  <component name="ProjectId" id="1qAtlmnTHPIEr3XEmOcbxGHDC23" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1qABgPu11EhUkhiCyJKpDSMa1V8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="postgresql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/spring/pom.xml" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Jovan D\IdeaProjects\SportsEquipmentStore\frontend-react\src\components\Product\ProductAdd" />
+      <recent name="C:\Users\Jovan D\IdeaProjects\SportsEquipmentStore\frontend-react\src\components\Product\ProductTerm" />
+      <recent name="C:\Users\Jovan D\IdeaProjects\SportsEquipmentStore\frontend-react\src\repo" />
+      <recent name="C:\Users\Jovan D\IdeaProjects\SportsEquipmentStore\frontend-react\src\repository" />
+      <recent name="C:\Users\Jovan D\IdeaProjects\SportsEquipmentStore\frontend-react\src\custom-axios" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Jovan D\IdeaProjects\SportsEquipmentStore\frontend-react\src\components\Product\ProductList" />
+      <recent name="C:\Users\Jovan D\IdeaProjects\SportsEquipmentStore\frontend-react\src\components\App" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="SportEquipmentStoreApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="SportsEquipmentStore" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="web.web.SportEquipmentStoreApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="a5982570-1783-41f7-aa3d-a72bb2c6f5a2" name="Default Changelist" comment="" />
-      <created>1616534382648</created>
+      <changelist id="4823f860-a146-4fd5-9bfd-c3e4d9bd18de" name="Default Changelist" comment="" />
+      <created>1616512628338</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1616534382648</updated>
-      <workItem from="1616534385655" duration="43000" />
+      <updated>1616512628338</updated>
+      <workItem from="1616512629451" duration="10412000" />
+      <workItem from="1616533147816" duration="282000" />
+      <workItem from="1616533790683" duration="465000" />
+      <workItem from="1616534434438" duration="10000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
